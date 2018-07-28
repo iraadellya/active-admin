@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 9.99
+  status: false
+  rent_date: 2018-07-29 05:09:00
+  devolution_date: 2018-07-29 05:09:00
+  car_id: 1
+  client_id: 1
+
+two:
+  price: 9.99
+  status: false
+  rent_date: 2018-07-29 05:09:00
+  devolution_date: 2018-07-29 05:09:00
+  car_id: 1
+  client_id: 1
